@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Edwin Hollen -- Designer/developer/curator -- github.com/edwinhollen
 
 # THANKS
 
-    <name>
+    reddit.com/r/games, reddit.com/r/witcher
 
 # TECHNOLOGY COLOPHON
 
