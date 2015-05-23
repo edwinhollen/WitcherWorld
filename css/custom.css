@@ -1,0 +1,38 @@
+body{
+	background: hsl(0, 0%, 20%);
+	color: hsl(0, 0%, 60%);
+	font-family: 'Fira Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: hsl(0, 60%, 50%);
+}
+
+a{
+	color: inherit;
+}
+
+a:visited{
+	color: hsl(260, 70%, 70%);
+}
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+	max-width: 960px;
+	min-width: 480px;
+}
+
+header.top{
+	text-align: center;
+}
+li aside{
+	font-size: 0.75em;
+}
+ul.columns{
+	columns: 2;
+	-webkit-columns: 2;
+}
+ul.columns li{
+	list-style: disc !important;
+}
